@@ -1,0 +1,430 @@
+{
+    "id-0": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\07baabd8-e118-47dd-9d8d-132d4347836a___RS_Early.B 8555.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\07baabd8-e118-47dd-9d8d-132d4347836a___RS_Early.B 8555.json"
+    },
+    "id-1": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\08a892eb-19cc-45ea-babc-181b98f89238___RS_Early.B 7367.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\08a892eb-19cc-45ea-babc-181b98f89238___RS_Early.B 7367.json"
+    },
+    "id-2": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0a6983a5-895e-4e68-9edb-88adf79211e9___RS_Early.B 9072.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0a6983a5-895e-4e68-9edb-88adf79211e9___RS_Early.B 9072.json"
+    },
+    "id-3": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0c4f6f72-c7a2-42e1-9671-41ab3bf37fe7___RS_Early.B 6752.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0c4f6f72-c7a2-42e1-9671-41ab3bf37fe7___RS_Early.B 6752.json"
+    },
+    "id-4": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0ed45bc2-c8cc-4d65-8f53-bdc10d78a7dc___RS_Early.B 8504.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0ed45bc2-c8cc-4d65-8f53-bdc10d78a7dc___RS_Early.B 8504.json"
+    },
+    "id-5": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0ede4acd-3685-40d9-b52b-7b3cb6536fa8___RS_Early.B 7377.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0ede4acd-3685-40d9-b52b-7b3cb6536fa8___RS_Early.B 7377.json"
+    },
+    "id-6": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0fd22207-cb37-42a1-965f-7dfe43f9d579___RS_Early.B 6876.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\0fd22207-cb37-42a1-965f-7dfe43f9d579___RS_Early.B 6876.json"
+    },
+    "id-7": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\10a3920b-dd04-406d-8bbd-f92f221e4dee___RS_Early.B 7035.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\10a3920b-dd04-406d-8bbd-f92f221e4dee___RS_Early.B 7035.json"
+    },
+    "id-8": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1132bee0-fe6b-41a9-9583-7b959c2ca25f___RS_Early.B 7482.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1132bee0-fe6b-41a9-9583-7b959c2ca25f___RS_Early.B 7482.json"
+    },
+    "id-9": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\11e974fa-928f-45f6-b983-e74c74c7d163___RS_Early.B 7992.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\11e974fa-928f-45f6-b983-e74c74c7d163___RS_Early.B 7992.json"
+    },
+    "id-10": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\129b1c3a-4f7d-4c45-ae03-2a4c3eb17dd4___RS_Early.B 7413.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\129b1c3a-4f7d-4c45-ae03-2a4c3eb17dd4___RS_Early.B 7413.json"
+    },
+    "id-11": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\12ebe6fe-c8ce-4a00-866f-8776aca75159___RS_Early.B 6873.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\12ebe6fe-c8ce-4a00-866f-8776aca75159___RS_Early.B 6873.json"
+    },
+    "id-12": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\13cfb9dc-8951-44c0-8c16-e96fd6ccc659___RS_Early.B 7070.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\13cfb9dc-8951-44c0-8c16-e96fd6ccc659___RS_Early.B 7070.json"
+    },
+    "id-13": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\13e2be1d-56bc-40c6-b5d1-e3bafc1b111e___RS_Early.B 8830.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\13e2be1d-56bc-40c6-b5d1-e3bafc1b111e___RS_Early.B 8830.json"
+    },
+    "id-14": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1767fee7-18fd-4597-8c77-d41ec2d62f4e___RS_Early.B 6932.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1767fee7-18fd-4597-8c77-d41ec2d62f4e___RS_Early.B 6932.json"
+    },
+    "id-15": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1a38f06b-da2a-4c57-bef1-a73254896403___RS_Early.B 9178.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1a38f06b-da2a-4c57-bef1-a73254896403___RS_Early.B 9178.json"
+    },
+    "id-16": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1c42eae7-29c8-42fd-b05a-9b8255790f6f___RS_Early.B 7719.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1c42eae7-29c8-42fd-b05a-9b8255790f6f___RS_Early.B 7719.json"
+    },
+    "id-17": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1d2ec63e-acfb-4a80-ba21-853a724fff4a___RS_Early.B 8083.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1d2ec63e-acfb-4a80-ba21-853a724fff4a___RS_Early.B 8083.json"
+    },
+    "id-18": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1d4fc5d0-fee6-40bf-8e7b-e1598ea64161___RS_Early.B 8912.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1d4fc5d0-fee6-40bf-8e7b-e1598ea64161___RS_Early.B 8912.json"
+    },
+    "id-19": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1ff86a73-9f36-45c5-8012-c5d90445b7ac___RS_Early.B 8563.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\1ff86a73-9f36-45c5-8012-c5d90445b7ac___RS_Early.B 8563.json"
+    },
+    "id-20": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2356a4d6-8015-434e-a5f8-03197fef2c28___RS_Early.B 8139.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2356a4d6-8015-434e-a5f8-03197fef2c28___RS_Early.B 8139.json"
+    },
+    "id-21": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2446ca09-aa29-4ae4-8d34-45115c32cde7___RS_Early.B 8971.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2446ca09-aa29-4ae4-8d34-45115c32cde7___RS_Early.B 8971.json"
+    },
+    "id-22": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\24ced43c-a862-4e3d-8300-dffd350de2c4___RS_Early.B 6957.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\24ced43c-a862-4e3d-8300-dffd350de2c4___RS_Early.B 6957.json"
+    },
+    "id-23": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2c0e712a-fb21-44b6-bbe1-7c67cec7b965___RS_Early.B 7084.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2c0e712a-fb21-44b6-bbe1-7c67cec7b965___RS_Early.B 7084.json"
+    },
+    "id-24": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2cce6cd6-16c4-426f-84e6-2f3c192fac2c___RS_Early.B 8999.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2cce6cd6-16c4-426f-84e6-2f3c192fac2c___RS_Early.B 8999.json"
+    },
+    "id-25": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2fe81ef1-d7ec-4395-b071-c74d5beb4037___RS_Early.B 7242.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\2fe81ef1-d7ec-4395-b071-c74d5beb4037___RS_Early.B 7242.json"
+    },
+    "id-26": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\34d62dee-797e-4f31-9063-f6a285935b4d___RS_Early.B 6733.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\34d62dee-797e-4f31-9063-f6a285935b4d___RS_Early.B 6733.json"
+    },
+    "id-27": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\34d7e068-10e6-4ea0-8547-c90937fccbbc___RS_Early.B 8198.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\34d7e068-10e6-4ea0-8547-c90937fccbbc___RS_Early.B 8198.json"
+    },
+    "id-28": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\37c72e1c-7981-4d84-9587-f5014b609230___RS_Early.B 7457.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\37c72e1c-7981-4d84-9587-f5014b609230___RS_Early.B 7457.json"
+    },
+    "id-29": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\37d5791e-19e8-4095-a1cd-36aede6d0802___RS_Early.B 7172.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\37d5791e-19e8-4095-a1cd-36aede6d0802___RS_Early.B 7172.json"
+    },
+    "id-30": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\38a72c90-ed53-4432-b625-01c1f962f791___RS_Early.B 7302.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\38a72c90-ed53-4432-b625-01c1f962f791___RS_Early.B 7302.json"
+    },
+    "id-31": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\3935d2ce-2d27-45ec-ab50-a53df9d30fa2___RS_Early.B 7437.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\3935d2ce-2d27-45ec-ab50-a53df9d30fa2___RS_Early.B 7437.json"
+    },
+    "id-32": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\3a97c74a-3d6e-4cd9-86e0-10a8e716e7b5___RS_Early.B 8422.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\3a97c74a-3d6e-4cd9-86e0-10a8e716e7b5___RS_Early.B 8422.json"
+    },
+    "id-33": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\3ef2279b-2fda-463a-b007-e2a93ff977f0___RS_Early.B 7235.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\3ef2279b-2fda-463a-b007-e2a93ff977f0___RS_Early.B 7235.json"
+    },
+    "id-34": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4019e40b-0175-462a-b6bb-228cf42c1a65___RS_Early.B 8256.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4019e40b-0175-462a-b6bb-228cf42c1a65___RS_Early.B 8256.json"
+    },
+    "id-35": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\41eccd84-6a67-4b04-ae69-59c1bcf17728___RS_Early.B 7964.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\41eccd84-6a67-4b04-ae69-59c1bcf17728___RS_Early.B 7964.json"
+    },
+    "id-36": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\43af6366-6c6a-408c-a10d-a4bad9428a19___RS_Early.B 7595.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\43af6366-6c6a-408c-a10d-a4bad9428a19___RS_Early.B 7595.json"
+    },
+    "id-37": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\450b4a32-39ae-4daa-aeb6-87559afb0b42___RS_Early.B 9202.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\450b4a32-39ae-4daa-aeb6-87559afb0b42___RS_Early.B 9202.json"
+    },
+    "id-38": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4699d1d8-f931-4b1c-8fd4-03a58350a86d___RS_Early.B 8972.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4699d1d8-f931-4b1c-8fd4-03a58350a86d___RS_Early.B 8972.json"
+    },
+    "id-39": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4849de96-2e26-4c8d-8944-bd9e8edee5d8___RS_Early.B 9196.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4849de96-2e26-4c8d-8944-bd9e8edee5d8___RS_Early.B 9196.json"
+    },
+    "id-40": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4a7c680d-9c18-4065-a6e0-70cd2d0a3207___RS_Early.B 8107.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4a7c680d-9c18-4065-a6e0-70cd2d0a3207___RS_Early.B 8107.json"
+    },
+    "id-41": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4af8e9e9-077d-4c7b-859d-626f74d3b1ff___RS_Early.B 7738.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4af8e9e9-077d-4c7b-859d-626f74d3b1ff___RS_Early.B 7738.json"
+    },
+    "id-42": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4b925312-1973-41cf-afdf-9090d02dd539___RS_Early.B 7913.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4b925312-1973-41cf-afdf-9090d02dd539___RS_Early.B 7913.json"
+    },
+    "id-43": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4bac4925-72ff-43e7-8726-5e2126c6c30d___RS_Early.B 8206.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4bac4925-72ff-43e7-8726-5e2126c6c30d___RS_Early.B 8206.json"
+    },
+    "id-44": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4d943ff8-e048-43c6-8861-4cdc6adab6a0___RS_Early.B 8726.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4d943ff8-e048-43c6-8861-4cdc6adab6a0___RS_Early.B 8726.json"
+    },
+    "id-45": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4e40c113-4ab2-4a71-9ecc-5ceb67905190___RS_Early.B 7446.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4e40c113-4ab2-4a71-9ecc-5ceb67905190___RS_Early.B 7446.json"
+    },
+    "id-46": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4e7faad5-4f3c-432a-8a71-bbe198aece77___RS_Early.B 7354.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4e7faad5-4f3c-432a-8a71-bbe198aece77___RS_Early.B 7354.json"
+    },
+    "id-47": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4eb1fee6-e288-4c32-841d-9fc1d1824508___RS_Early.B 8446.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4eb1fee6-e288-4c32-841d-9fc1d1824508___RS_Early.B 8446.json"
+    },
+    "id-48": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4f12ef84-6c6e-43d6-b6f1-3a8b0278b3a6___RS_Early.B 8101.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4f12ef84-6c6e-43d6-b6f1-3a8b0278b3a6___RS_Early.B 8101.json"
+    },
+    "id-49": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4f20f0e5-b870-414c-99a0-136575a61ce5___RS_Early.B 6724.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\4f20f0e5-b870-414c-99a0-136575a61ce5___RS_Early.B 6724.json"
+    },
+    "id-50": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\51e028c1-7aec-46e9-a389-391bc38b46f3___RS_Early.B 8505.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\51e028c1-7aec-46e9-a389-391bc38b46f3___RS_Early.B 8505.json"
+    },
+    "id-51": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\51f59871-72dc-490c-a550-9e7869142284___RS_Early.B 7224.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\51f59871-72dc-490c-a550-9e7869142284___RS_Early.B 7224.json"
+    },
+    "id-52": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\52fb5725-33cf-4076-9abc-93311d027da2___RS_Early.B 8415.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\52fb5725-33cf-4076-9abc-93311d027da2___RS_Early.B 8415.json"
+    },
+    "id-53": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\53de9716-fcc5-4241-9e8d-21792a5cf226___RS_Early.B 9014.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\53de9716-fcc5-4241-9e8d-21792a5cf226___RS_Early.B 9014.json"
+    },
+    "id-54": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\544b5324-f697-4af8-90d4-47b7b86691c6___RS_Early.B 7028.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\544b5324-f697-4af8-90d4-47b7b86691c6___RS_Early.B 7028.json"
+    },
+    "id-55": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\54eebf69-9501-4f9e-b923-1ef61f31d93c___RS_Early.B 7098.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\54eebf69-9501-4f9e-b923-1ef61f31d93c___RS_Early.B 7098.json"
+    },
+    "id-56": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5bb77b39-311b-4ad1-8bfc-5a41a13b7b02___RS_Early.B 8255.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5bb77b39-311b-4ad1-8bfc-5a41a13b7b02___RS_Early.B 8255.json"
+    },
+    "id-57": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5cb0b99b-2e14-43b3-aa51-51a7ce668793___RS_Early.B 7455.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5cb0b99b-2e14-43b3-aa51-51a7ce668793___RS_Early.B 7455.json"
+    },
+    "id-58": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5de34904-b1e6-48ef-9daf-73d80f5cc6c3___RS_Early.B 8345.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5de34904-b1e6-48ef-9daf-73d80f5cc6c3___RS_Early.B 8345.json"
+    },
+    "id-59": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5fd6c76a-1e89-4991-9991-2b61670d5175___RS_Early.B 8208.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\5fd6c76a-1e89-4991-9991-2b61670d5175___RS_Early.B 8208.json"
+    },
+    "id-60": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\610d8d2d-c28d-4d99-9f37-a6a79148b529___RS_Early.B 8023.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\610d8d2d-c28d-4d99-9f37-a6a79148b529___RS_Early.B 8023.json"
+    },
+    "id-61": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\61da9830-ebfd-483a-88dd-a66fcff4c457___RS_Early.B 7817.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\61da9830-ebfd-483a-88dd-a66fcff4c457___RS_Early.B 7817.json"
+    },
+    "id-62": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\61f4f7c5-cebe-471a-9be9-b595255b7fb4___RS_Early.B 7029.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\61f4f7c5-cebe-471a-9be9-b595255b7fb4___RS_Early.B 7029.json"
+    },
+    "id-63": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\63b61694-16e9-4ef4-ad6f-5e27d2c9eed9___RS_Early.B 6871.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\63b61694-16e9-4ef4-ad6f-5e27d2c9eed9___RS_Early.B 6871.json"
+    },
+    "id-64": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\64e41485-8bd1-4b5d-9482-023eb07d8a89___RS_Early.B 9078.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\64e41485-8bd1-4b5d-9482-023eb07d8a89___RS_Early.B 9078.json"
+    },
+    "id-65": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\6a90d533-28ad-4e1b-935b-8d2dfa804c87___RS_Early.B 8213.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\6a90d533-28ad-4e1b-935b-8d2dfa804c87___RS_Early.B 8213.json"
+    },
+    "id-66": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\6bb48ab5-6f0d-4bd8-a3c0-bf2b6d5ed936___RS_Early.B 7281.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\6bb48ab5-6f0d-4bd8-a3c0-bf2b6d5ed936___RS_Early.B 7281.json"
+    },
+    "id-67": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\6fc04d72-747b-4a96-912a-db0bd967ece0___RS_Early.B 8002.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\6fc04d72-747b-4a96-912a-db0bd967ece0___RS_Early.B 8002.json"
+    },
+    "id-68": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\70b89c8b-2850-4ec8-8da1-a4b9de5351c7___RS_Early.B 6889.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\70b89c8b-2850-4ec8-8da1-a4b9de5351c7___RS_Early.B 6889.json"
+    },
+    "id-69": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\71ab124e-93ba-4d4e-ae53-68ac12fcb858___RS_Early.B 8129.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\71ab124e-93ba-4d4e-ae53-68ac12fcb858___RS_Early.B 8129.json"
+    },
+    "id-70": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\72f9e596-8d1e-4ffd-923d-55645d6adca1___RS_Early.B 7704.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\72f9e596-8d1e-4ffd-923d-55645d6adca1___RS_Early.B 7704.json"
+    },
+    "id-71": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\758b39d7-12bc-401f-b280-2c8435a02f43___RS_Early.B 6839.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\758b39d7-12bc-401f-b280-2c8435a02f43___RS_Early.B 6839.json"
+    },
+    "id-72": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\7a04081f-dd48-4a84-b7c1-611a50ae7886___RS_Early.B 8019.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\7a04081f-dd48-4a84-b7c1-611a50ae7886___RS_Early.B 8019.json"
+    },
+    "id-73": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\7fb3dc5c-f90b-46fe-8eb6-2d21038976ff___RS_Early.B 7256.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\7fb3dc5c-f90b-46fe-8eb6-2d21038976ff___RS_Early.B 7256.json"
+    },
+    "id-74": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\839a8aeb-9bcc-4fd9-b196-639d6f681426___RS_Early.B 7068.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\839a8aeb-9bcc-4fd9-b196-639d6f681426___RS_Early.B 7068.json"
+    },
+    "id-75": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\83b7d891-0fe8-47b8-b6e1-693493a2988a___RS_Early.B 8707.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\83b7d891-0fe8-47b8-b6e1-693493a2988a___RS_Early.B 8707.json"
+    },
+    "id-76": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\879d0dfe-d17d-486a-992c-d80089133c50___RS_Early.B 7428.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\879d0dfe-d17d-486a-992c-d80089133c50___RS_Early.B 7428.json"
+    },
+    "id-77": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\89d4dba2-3d9c-46fe-bac3-6be833b01351___RS_Early.B 6749.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\89d4dba2-3d9c-46fe-bac3-6be833b01351___RS_Early.B 6749.json"
+    },
+    "id-78": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8a9f0340-d5d1-479b-9dc5-d8df11685951___RS_Early.B 7024.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8a9f0340-d5d1-479b-9dc5-d8df11685951___RS_Early.B 7024.json"
+    },
+    "id-79": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8bcbd0ab-e530-4b6c-83a2-e0c649abbdaf___RS_Early.B 6676.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8bcbd0ab-e530-4b6c-83a2-e0c649abbdaf___RS_Early.B 6676.json"
+    },
+    "id-80": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8be5bc25-febc-4bde-bd2b-01a54d3c6e3c___RS_Early.B 8760.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8be5bc25-febc-4bde-bd2b-01a54d3c6e3c___RS_Early.B 8760.json"
+    },
+    "id-81": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8c01f338-2648-4bcf-99cb-853978b39014___RS_Early.B 6742.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8c01f338-2648-4bcf-99cb-853978b39014___RS_Early.B 6742.json"
+    },
+    "id-82": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8c1f94fb-d8e0-4607-a967-b71408dfd1ab___RS_Early.B 8723.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8c1f94fb-d8e0-4607-a967-b71408dfd1ab___RS_Early.B 8723.json"
+    },
+    "id-83": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8da2d8a3-159e-48eb-9ae6-fd82bdb22d5d___RS_Early.B 6923.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8da2d8a3-159e-48eb-9ae6-fd82bdb22d5d___RS_Early.B 6923.json"
+    },
+    "id-84": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8f0e6484-7d27-4ee1-849a-316c6195b139___RS_Early.B 6840.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8f0e6484-7d27-4ee1-849a-316c6195b139___RS_Early.B 6840.json"
+    },
+    "id-85": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8f3f9eed-1a3d-4f0f-adcc-0fe3a832d95f___RS_Early.B 8518.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8f3f9eed-1a3d-4f0f-adcc-0fe3a832d95f___RS_Early.B 8518.json"
+    },
+    "id-86": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8ff3274d-02b2-4859-9415-982aa4ec7d8c___RS_Early.B 7465.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\8ff3274d-02b2-4859-9415-982aa4ec7d8c___RS_Early.B 7465.json"
+    },
+    "id-87": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\906bb6f0-e61b-42f2-83a9-22593dadcedc___RS_Early.B 8564.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\906bb6f0-e61b-42f2-83a9-22593dadcedc___RS_Early.B 8564.json"
+    },
+    "id-88": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\911b9166-40ba-4dc8-974e-c916e6866142___RS_Early.B 9089.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\911b9166-40ba-4dc8-974e-c916e6866142___RS_Early.B 9089.json"
+    },
+    "id-89": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\93c6b48d-cde9-4e8b-bbfb-1a9c06234419___RS_Early.B 7000.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\93c6b48d-cde9-4e8b-bbfb-1a9c06234419___RS_Early.B 7000.json"
+    },
+    "id-90": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\95fba7f6-23a4-4c3c-a2b9-335c5b4c3810___RS_Early.B 7743.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\95fba7f6-23a4-4c3c-a2b9-335c5b4c3810___RS_Early.B 7743.json"
+    },
+    "id-91": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\985f3b47-d5ee-45d4-a020-f43ca80fb59e___RS_Early.B 9211.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\985f3b47-d5ee-45d4-a020-f43ca80fb59e___RS_Early.B 9211.json"
+    },
+    "id-92": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\98d40b59-5c50-45b6-9b8b-268c40547334___RS_Early.B 8031.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\98d40b59-5c50-45b6-9b8b-268c40547334___RS_Early.B 8031.json"
+    },
+    "id-93": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\996c0f04-a33a-4620-8971-469e009abae7___RS_Early.B 8869.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\996c0f04-a33a-4620-8971-469e009abae7___RS_Early.B 8869.json"
+    },
+    "id-94": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9badd590-45ed-4636-9590-b12342ea8a84___RS_Early.B 6944.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9badd590-45ed-4636-9590-b12342ea8a84___RS_Early.B 6944.json"
+    },
+    "id-95": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9ca7d203-7b7c-4f5c-911f-fc225f3c5b77___RS_Early.B 7557.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9ca7d203-7b7c-4f5c-911f-fc225f3c5b77___RS_Early.B 7557.json"
+    },
+    "id-96": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9cba8b9a-68a7-483a-bc77-6bacbbe7fc46___RS_Early.B 7588.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9cba8b9a-68a7-483a-bc77-6bacbbe7fc46___RS_Early.B 7588.json"
+    },
+    "id-97": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9d0c69df-f5dc-4118-a654-ab40d100b9b6___RS_Early.B 8870.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\9d0c69df-f5dc-4118-a654-ab40d100b9b6___RS_Early.B 8870.json"
+    },
+    "id-98": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\acff9d5e-4b38-4817-a239-93c115a0b3ff___RS_Early.B 8993.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\acff9d5e-4b38-4817-a239-93c115a0b3ff___RS_Early.B 8993.json"
+    },
+    "id-99": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\ae38f458-d36e-43ce-95a5-45b775692d8d___RS_Early.B 8644.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\ae38f458-d36e-43ce-95a5-45b775692d8d___RS_Early.B 8644.json"
+    },
+    "id-100": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\aed93c24-f226-4dd4-b5fb-b1f2d1202c63___RS_Early.B 8363.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\aed93c24-f226-4dd4-b5fb-b1f2d1202c63___RS_Early.B 8363.json"
+    },
+    "id-101": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b14e0de2-ab48-45b5-9d4d-e45e7c88b68f___RS_Early.B 8554.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b14e0de2-ab48-45b5-9d4d-e45e7c88b68f___RS_Early.B 8554.json"
+    },
+    "id-102": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b1b3c9c7-a4b9-4048-be45-fa9c5e507c66___RS_Early.B 7466.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b1b3c9c7-a4b9-4048-be45-fa9c5e507c66___RS_Early.B 7466.json"
+    },
+    "id-103": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b301c9cd-7624-4261-ab4f-962936ebb92a___RS_Early.B 7632.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b301c9cd-7624-4261-ab4f-962936ebb92a___RS_Early.B 7632.json"
+    },
+    "id-104": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b328c22c-c9c6-41fd-9bac-daf2f26143b1___RS_Early.B 6854.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b328c22c-c9c6-41fd-9bac-daf2f26143b1___RS_Early.B 6854.json"
+    },
+    "id-105": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b35e4c48-e54e-4e42-a399-b236209314f4___RS_Early.B 8231.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b35e4c48-e54e-4e42-a399-b236209314f4___RS_Early.B 8231.json"
+    },
+    "id-106": {
+        "imagen": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b6b4aa28-edc4-4e9f-bc0d-bd4b0ec085a2___RS_Early.B 7559.JPG",
+        "etiqueta": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\dataset\\data\\Potato___Early_blight\\b6b4aa28-edc4-4e9f-bc0d-bd4b0ec085a2___RS_Early.B 7559.json"
+    }
+}

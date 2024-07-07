@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\K4tz3\Desktop\ML\taller_remoto-main\model\modelo.py", line 10, in <module>
+    with open('../id_dataset.json') as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../id_dataset.json'

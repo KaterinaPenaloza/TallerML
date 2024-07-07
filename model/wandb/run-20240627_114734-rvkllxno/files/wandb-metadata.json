@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-06-27T15:47:36.543697",
+    "startedAt": "2024-06-27T15:47:34.555803",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\K4tz3\\Desktop\\ML\\taller_remoto-main\\model\\modelo.py",
+    "codePathLocal": "modelo.py",
+    "codePath": "modelo.py",
+    "host": "DESKTOP-DBHD2FJ",
+    "username": "K4tz3",
+    "executable": "C:\\Users\\K4tz3\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 222.94568634033203,
+            "used": 200.93557357788086
+        }
+    },
+    "gpu": "NVIDIA GeForce MX110",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX110",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 3.8819122314453125
+    }
+}
